@@ -1,5 +1,5 @@
 
-<img src='me.png' width=400>
+<img src='me.png' width=200>
 
 - 2014~2020 : 간호학과 졸업
 - 병원 근무
